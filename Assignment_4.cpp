@@ -1,3 +1,4 @@
+// This code creates an interactive OpenGL program that displays a textured rotating cube.
 #include <GL/glut.h>
 #include <iostream>
 #include <cstdlib>
