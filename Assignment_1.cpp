@@ -1,3 +1,4 @@
+// In this code  i draw the Palestinian flag with the text "Free Palestine"
 #include <GL/glut.h>
 
 void drawTriangle() {
