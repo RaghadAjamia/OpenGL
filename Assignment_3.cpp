@@ -1,3 +1,5 @@
+// This code creates an interactive OpenGL program that displays and controls a colored square.
+// Use arrow keys to move the square up, down, left, or right. Use '+' to increase its size and '-' to decrease its size.
 #include <GL/glut.h>
 #include <cstdlib>
 #include <iostream>
